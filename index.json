@@ -2922,6 +2922,22 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/iflight_succesX_micro.txt",
+      "hash": "d206dc229c14c9007e35941dfea2c88a5ee4077b17935552e4f9f9201d876b70",
+      "title": "iFlight SccessX Micro",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "VTX"
+      ],
+      "author": "Sjoer van der Ploeg",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/rush_sa2.1_vtx_tables.txt",
       "hash": "22aadeaaf187206e8e33fe426586de11dcfb1ea0ef3e56850ff9aabd37078b14",
       "title": "Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
