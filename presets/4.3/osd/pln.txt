@@ -1,0 +1,23 @@
+#$ TITLE: Personal OSD
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: analog
+#$ AUTHOR: Philippe Le Naour
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Personal Rates
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_link_quality_pos = 2423
+set osd_rssi_dbm_pos = 2391
+set osd_tim_1_pos = 2401
+set osd_tim_2_pos = 2433
+set osd_flymode_pos = 2444
+set osd_throttle_pos = 2455
+set osd_vtx_channel_pos = 2337
+set osd_warnings_pos = 14570
+set osd_avg_cell_voltage_pos = 2369
+set osd_disarmed_pos = 2251
+set osd_core_temp_pos = 2359
