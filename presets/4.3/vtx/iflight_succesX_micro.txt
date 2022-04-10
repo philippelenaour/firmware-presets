@@ -4,7 +4,7 @@
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: VTX
-#$ AUTHOR: Sjoer van der Ploeg
+#$ AUTHOR: Philippe Le Naour
 #$ DESCRIPTION: SA2.0 VTX table for the iFlight SccessX Micro
 #$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
 
