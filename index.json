@@ -2923,7 +2923,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/iflight_succesX_micro.txt",
-      "hash": "d206dc229c14c9007e35941dfea2c88a5ee4077b17935552e4f9f9201d876b70",
+      "hash": "6903405af631239386d118884d5656d39370c1dc8327ffbcda9e0a9f2c0977a8",
       "title": "iFlight SccessX Micro",
       "firmware_version": [
         "4.2",
@@ -2934,7 +2934,7 @@
       "keywords": [
         "VTX"
       ],
-      "author": "Sjoer van der Ploeg",
+      "author": "Philippe Le Naour",
       "priority": 1000000
     },
     {
